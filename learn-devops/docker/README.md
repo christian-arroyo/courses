@@ -1,3 +1,4 @@
+```bash
 # Check the version of Docker installed
 docker --version
 
@@ -252,4 +253,4 @@ docker-compose ps
 
 # Display the top resource-consuming processes of the services defined in the Docker Compose file
 docker-compose top
-
+```
